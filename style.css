@@ -1,0 +1,93 @@
+body {
+    background-image: url("res/tiles/backgrount.png");
+    background-repeat: no-repeat;
+    background-size: 1550px 750px;
+}
+
+main {
+    border-radius: 0px;
+    margin-top: 0px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: calc((100% - 580px) / 2);
+    width: 550px;
+}
+
+/* #count {
+    background-size: 2000px;
+    height: 00;
+    font-size: 30px;
+    color: rgb(253, 253, 253);
+
+} */
+
+/* #count tr strong {
+    font-size: 70px;
+    color: rgb(0, 255, 21);
+} */
+
+#status {
+    margin-bottom: 5px;
+    padding-top: 115px;
+    padding-bottom: 55px;
+    border-radius: 5px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 25px;
+}
+
+
+section#Gira {
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(94, 231, 76);
+    color: #FFFFFF;
+    font-size: 35px;
+}
+
+
+#slot1,
+#slot2,
+#slot3 {
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-size: 150px;
+    width: 150px;
+    height: 150px;
+}
+
+.a1 {
+    background-image: url("res/tiles/chopper.png");
+}
+
+.a2 {
+    background-image: url("res/tiles/nami.png");
+}
+
+.a3 {
+    background-image: url("res/tiles/luffy.png");
+}
+
+.a4 {
+    background-image: url("res/tiles/zoro.png");
+}
+
+.a5 {
+    background-image: url("res/tiles/robin.png");
+}
+
+.a6 {
+    background-image: url("res/tiles/sanzi.png");
+}
+
+.a7 {
+    background-image: url("res/tiles/usop.png");
+}
